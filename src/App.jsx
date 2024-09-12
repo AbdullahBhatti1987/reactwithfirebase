@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import BestSeller from "./pages/BestSeller";
 import Products from "./pages/Products";
 import AboutUs from "./pages/AboutUs";
-import Contactus from "./pages/Contactus";
+import Contactus from "./pages/ContactUs";
 import SignUp from "./auth/SignUp";
 import SignIn from "./auth/SignIn";
 

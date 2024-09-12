@@ -7,13 +7,13 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAQewl1Do2AGrlvthqFRKl9hx31BK5KGIs",
-  authDomain: "reactfirebase-3cbfe.firebaseapp.com",
-  projectId: "reactfirebase-3cbfe",
-  storageBucket: "reactfirebase-3cbfe.appspot.com",
-  messagingSenderId: "43611152199",
-  appId: "1:43611152199:web:38df9f88d1ef033ad7b662",
-  measurementId: "G-4VVBVR1N88"
+  apiKey: "AIzaSyBQQMBzdUjKos5V1aCsGlK91drav-vT9nE",
+  authDomain: "reactwithfirebase-7344e.firebaseapp.com",
+  projectId: "reactwithfirebase-7344e",
+  storageBucket: "reactwithfirebase-7344e.appspot.com",
+  messagingSenderId: "932894382387",
+  appId: "1:932894382387:web:e5d1c7e6bfd4efc409c646",
+  measurementId: "G-BZ8VDKS8FG"
 };
 
 

@@ -92,7 +92,7 @@ function SignIn() {
         <Label htmlFor="notRegister">Not have an account? </Label>
         <p
           onClick={handleSignUpPage}
-          className="text-blue-500 underline cursor-pointer"
+          className="text-blue-500 underline cursor-pointer hover:text-blue-800"
         >
           Sign Up
         </p>
